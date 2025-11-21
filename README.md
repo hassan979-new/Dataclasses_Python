@@ -85,13 +85,10 @@ Programme principal
 - Désérialisation d’un film à partir de JSON
 ## 🖥️ Example Execution
 
-
 ### Exercice1 :
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/cc0eb7d7-9c61-41c4-8f91-21774311b2d4" />
 ### Exercice2 : 
-
-
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/0f27000b-1610-4b22-8b0a-2b79138bf5da" />
 ## 💡 Concepts Practiced
 
 - Utiliser les dataclasses pour simplifier la définition des classes
